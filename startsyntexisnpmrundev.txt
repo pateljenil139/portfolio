@@ -1,0 +1,1 @@
+to start project write npm run dev and do not forgot to install npm install
