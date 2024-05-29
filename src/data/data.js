@@ -5,16 +5,16 @@ export const data = [
   
   {
     id: 3,
-    img: 'https://www.seekpng.com/png/full/7-79244_coming-soon-png-illustration.png',
-    title: "Coming  Soon...",
-    desc: "",
-    link: "",
+    img: 'https://t4.ftcdn.net/jpg/04/21/45/51/360_F_421455125_uq2szZSTeL8LoFZ6QJPBt95Hz8xDgECQ.jpg',
+    title: "Stock Inventory App",
+    desc: "This is a Software i created for the Private Company",
+    link: "Link is hidden for Privacy ",
     git: "",
   },
   {
     id: 2,
     img: 'https://www.pngall.com/wp-content/uploads/2016/04/WhatsApp-PNG-Picture.png',
-    title: "Whatsapp",
+    title: "Whatsapp clone",
     desc:"This Is A Real Time Chat App Like a Whatsapp",
     link: "",
     git: "https://github.com/pateljenil139/wpbyjenilpatel",
