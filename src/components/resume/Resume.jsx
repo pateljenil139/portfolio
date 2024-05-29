@@ -68,10 +68,9 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                Diploma in IT Engineering
-                </h1>
+                Diploma in IT Passed and now B.Tech is Running                </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  R.C.Technical Institute , affiliated with GTU
+                 Gujarat Technological University (GTU)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   Year 2021 - Year 2024
