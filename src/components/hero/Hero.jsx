@@ -9,7 +9,7 @@ import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume.pdf";
-import jenil from "../../assets/jenil.png";
+
 
 const Hero = () => {
   return (
@@ -96,20 +96,21 @@ const Hero = () => {
         </div>
         <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
-            <img
-              // data-aos="fade-up"
-              //   className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src={jenil}
-              style={{
-                display: "block",
-                maxWidth: "100%", // To ensure it's mobile-friendly
-                maxHeight: "100%", // Allow the image to scale within its container's height
-                width: "400px", // Set the desired width
-                height: "500px", // Set the desired height
-                margin: "0 auto",
-              }}
-              // src={mine}
-              alt="mine"
+          <img
+  src="https://ik.imagekit.io/8lwigy37a/jp.jpg?updatedAt=1729098813552"
+  alt="mine"
+  style={{
+    display: "block",
+    maxWidth: "100%",
+    maxHeight: "100%",
+    marginTop: "100px",
+    width: "400px",
+    height: "400px",
+    margin: "0 auto",
+    borderRadius: "25px", // Add rounded corners with desired radius
+    boxShadow: "0 25px 50px -12px rgba(0, 0, 0, 0.25)", // Add subtle fading shade
+  }}
+
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div
